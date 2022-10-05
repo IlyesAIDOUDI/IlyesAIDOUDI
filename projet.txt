@@ -7,7 +7,9 @@ Admin de poste -> Commerciaux et directeurs
 
 Serveur Active Directory
 Domaine (meublinot.home)
-serveur de fichiers
+serveur de 
+
+fichiers
 Routeur
 
 Chaque poste VPN pour se connecter au siège
